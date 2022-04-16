@@ -1,6 +1,8 @@
 # next-typescript-material-ui-template
 
-this is a next.js boilerplate bootstrapped with typescript.
+this is a next.js boilerplate bootstrapped with typescript and material-ui v5 as the UI library and emotion as its styling engine.
+
+the repo has Roboto font installed (default for MUI). if you're using a different font, remove `@fontsource/roboto` from packages and configure material-ui to use a different one.
 
 the repo also includes eslint, prettier and husky for error checking, code formatting and pre-commit linting - make sure your IDE has eslint and prettier installed to be able to make use of these features
 
